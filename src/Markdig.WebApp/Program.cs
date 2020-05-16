@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Builder;
 
-namespace Markdig.WebApp
+namespace KnowBetter.Markdig.WebApp
 {
     public class Program
     {

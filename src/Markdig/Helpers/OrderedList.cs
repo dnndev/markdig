@@ -4,7 +4,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     /// <summary>
     /// A List that provides methods for inserting/finding before/after. See remarks.

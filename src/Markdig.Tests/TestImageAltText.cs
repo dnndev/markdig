@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using System.Text.RegularExpressions;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestImageAltText

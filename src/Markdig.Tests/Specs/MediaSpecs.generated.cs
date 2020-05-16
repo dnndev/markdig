@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Media
+namespace KnowBetter.Markdig.Tests.Specs.Media
 {
     [TestFixture]
     public class TestExtensionsMediaLinks

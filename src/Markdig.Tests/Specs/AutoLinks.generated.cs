@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.AutoLinks
+namespace KnowBetter.Markdig.Tests.Specs.AutoLinks
 {
     [TestFixture]
     public class TestExtensionsAutoLinks

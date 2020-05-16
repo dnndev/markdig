@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Bootstrap
+namespace KnowBetter.Markdig.Tests.Specs.Bootstrap
 {
     [TestFixture]
     public class TestExtensionsBootstrap

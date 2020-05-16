@@ -1,10 +1,10 @@
 // Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
-using Markdig.Helpers;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Parsers.Inlines
+namespace KnowBetter.Markdig.Parsers.Inlines
 {
     /// <summary>
     /// An inline parser for escape characters.

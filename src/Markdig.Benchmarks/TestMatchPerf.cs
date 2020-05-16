@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using BenchmarkDotNet.Attributes;
-using Markdig.Helpers;
+using KnowBetter.Markdig.Helpers;
 
 namespace Testamina.Markdig.Benchmarks
 {

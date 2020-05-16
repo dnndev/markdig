@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Globalization
+namespace KnowBetter.Markdig.Tests.Specs.Globalization
 {
     [TestFixture]
     public class TestExtensionsGlobalization

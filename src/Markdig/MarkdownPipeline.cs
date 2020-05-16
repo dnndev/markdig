@@ -4,11 +4,11 @@
 using System;
 using System.Collections.ObjectModel;
 using System.IO;
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Renderers;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers;
 
-namespace Markdig
+namespace KnowBetter.Markdig
 {
     /// <summary>
     /// This class is the Markdown pipeline build from a <see cref="MarkdownPipelineBuilder"/>.

@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Diagrams
+namespace KnowBetter.Markdig.Tests.Specs.Diagrams
 {
     [TestFixture]
     public class TestExtensionsMermaidDiagrams

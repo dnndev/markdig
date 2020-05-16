@@ -1,10 +1,10 @@
-﻿// Copyright (c) Alexandre Mutel. All rights reserved.
+// Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
-using Markdig.Parsers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Extensions.CustomContainers
+namespace KnowBetter.Markdig.Extensions.CustomContainers
 {
     /// <summary>
     /// A block custom container.

@@ -3,11 +3,11 @@
 // See the license.txt file in the project root for more information.
 
 using System;
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Parsers.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Parsers.Inlines;
 
-namespace Markdig.Syntax.Inlines
+namespace KnowBetter.Markdig.Syntax.Inlines
 {
     /// <summary>
     /// A delimiter used for parsing emphasis.

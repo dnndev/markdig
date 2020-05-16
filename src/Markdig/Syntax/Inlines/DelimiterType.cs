@@ -3,7 +3,7 @@
 // See the license.txt file in the project root for more information.
 using System;
 
-namespace Markdig.Syntax.Inlines
+namespace KnowBetter.Markdig.Syntax.Inlines
 {
     /// <summary>
     /// Gets the type of a <see cref="DelimiterInline"/>.

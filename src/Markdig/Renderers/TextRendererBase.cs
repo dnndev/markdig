@@ -5,11 +5,11 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Runtime.CompilerServices;
-using Markdig.Helpers;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Renderers
+namespace KnowBetter.Markdig.Renderers
 {
     /// <summary>
     /// A text based <see cref="IMarkdownRenderer"/>.

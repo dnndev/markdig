@@ -3,11 +3,11 @@
 // See the license.txt file in the project root for more information.
 using System;
 using System.Linq;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 using NUnit.Framework;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestPlayParser

@@ -1,15 +1,15 @@
-﻿// Copyright (c) Alexandre Mutel. All rights reserved.
+// Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 
 using System;
-using Markdig.Helpers;
-using Markdig.Renderers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Extensions.PragmaLines
+namespace KnowBetter.Markdig.Extensions.PragmaLines
 {
     /// <summary>
     /// Extension to a span for each line containing the original line id (using id = pragma-line#line_number_zero_based)

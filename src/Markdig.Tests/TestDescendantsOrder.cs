@@ -1,10 +1,10 @@
 using NUnit.Framework;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 using System.Linq;
 using System.Collections.Generic;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestDescendantsOrder

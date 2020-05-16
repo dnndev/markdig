@@ -5,7 +5,7 @@
 using System;
 using System.Diagnostics;
 
-namespace Markdig.Syntax.Inlines
+namespace KnowBetter.Markdig.Syntax.Inlines
 {
     /// <summary>
     /// An emphasis and strong emphasis (Section 6.4 CommonMark specs).

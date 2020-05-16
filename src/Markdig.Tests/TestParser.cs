@@ -7,10 +7,10 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using Markdig.Extensions.JiraLinks;
+using KnowBetter.Markdig.Extensions.JiraLinks;
 using NUnit.Framework;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     public class TestParser
     {

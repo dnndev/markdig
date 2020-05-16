@@ -3,14 +3,14 @@
 // See the license.txt file in the project root for more information.
 
 using System;
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Renderers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Extensions.GenericAttributes
+namespace KnowBetter.Markdig.Extensions.GenericAttributes
 {
     /// <summary>
     /// Extension that allows to attach HTML attributes to the previous <see cref="Inline"/> or current <see cref="Block"/>.

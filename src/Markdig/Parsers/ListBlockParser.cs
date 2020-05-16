@@ -3,10 +3,10 @@
 // See the license.txt file in the project root for more information.
 using System;
 using System.Collections.Generic;
-using Markdig.Helpers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Parsers
+namespace KnowBetter.Markdig.Parsers
 {
     /// <summary>
     /// A parser for a list block and list item block.

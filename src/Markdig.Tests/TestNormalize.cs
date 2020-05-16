@@ -4,13 +4,13 @@
 
 using System;
 using NUnit.Framework;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 using System.IO;
-using Markdig.Renderers.Normalize;
-using Markdig.Helpers;
+using KnowBetter.Markdig.Renderers.Normalize;
+using KnowBetter.Markdig.Helpers;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestNormalize

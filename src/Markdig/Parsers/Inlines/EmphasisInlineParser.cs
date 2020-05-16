@@ -5,12 +5,12 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using Markdig.Helpers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Parsers.Inlines
+namespace KnowBetter.Markdig.Parsers.Inlines
 {
     /// <summary>
     /// An inline parser for <see cref="EmphasisInline"/>.

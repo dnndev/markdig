@@ -4,10 +4,10 @@
 
 using System;
 using System.IO;
-using Markdig.Syntax;
-using Markdig.Renderers.Normalize.Inlines;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Renderers.Normalize.Inlines;
 
-namespace Markdig.Renderers.Normalize
+namespace KnowBetter.Markdig.Renderers.Normalize
 {
     /// <summary>
     /// Default HTML renderer for a Markdown <see cref="MarkdownDocument"/> object.

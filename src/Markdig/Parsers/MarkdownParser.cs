@@ -6,10 +6,10 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using Markdig.Helpers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Parsers
+namespace KnowBetter.Markdig.Parsers
 {
     /// <summary>
     /// Delegates called when processing a document

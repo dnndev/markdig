@@ -1,9 +1,9 @@
 // Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
-using Markdig.Syntax;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Extensions.Tables
+namespace KnowBetter.Markdig.Extensions.Tables
 {
     /// <summary>
     /// Defines a row in a <see cref="Table"/>, contains <see cref="TableCell"/>, parent is <see cref="Table"/>.

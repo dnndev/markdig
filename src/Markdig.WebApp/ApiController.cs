@@ -2,7 +2,7 @@ using System;
 using System.Text;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Markdig.WebApp
+namespace KnowBetter.Markdig.WebApp
 {
     public class ApiController : Controller
     {

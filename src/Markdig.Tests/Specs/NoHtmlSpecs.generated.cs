@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.NoHtml
+namespace KnowBetter.Markdig.Tests.Specs.NoHtml
 {
     [TestFixture]
     public class TestExtensionsNoHTML

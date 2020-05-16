@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Normalize.Headings
+namespace KnowBetter.Markdig.Tests.Specs.Normalize.Headings
 {
     [TestFixture]
     public class TestHeadings

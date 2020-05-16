@@ -5,7 +5,7 @@
 using System;
 using System.Text;
 
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     /// <summary>
     /// Helper to parse several HTML tags.

@@ -7,12 +7,12 @@ using System.Globalization;
 using System.IO;
 using System.Runtime.CompilerServices;
 using System.Text;
-using Markdig.Helpers;
-using Markdig.Renderers.Html;
-using Markdig.Renderers.Html.Inlines;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Renderers.Html.Inlines;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Renderers
+namespace KnowBetter.Markdig.Renderers
 {
     /// <summary>
     /// Default HTML renderer for a Markdown <see cref="MarkdownDocument"/> object.

@@ -1,7 +1,7 @@
 using NUnit.Framework;
-using Markdig.Extensions.EmphasisExtras;
+using KnowBetter.Markdig.Extensions.EmphasisExtras;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestEmphasisExtraOptions

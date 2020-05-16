@@ -4,10 +4,10 @@
 
 using System;
 using System.Collections.Generic;
-using Markdig.Helpers;
-using Markdig.Parsers;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
 
-namespace Markdig.Extensions.Emoji
+namespace KnowBetter.Markdig.Extensions.Emoji
 {
     /// <summary>
     /// The inline parser used to for emoji.

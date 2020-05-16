@@ -1,12 +1,12 @@
 // Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Extensions.TaskLists
+namespace KnowBetter.Markdig.Extensions.TaskLists
 {
     /// <summary>
     /// The inline parser for SmartyPants.

@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.EmphasisExtra
+namespace KnowBetter.Markdig.Tests.Specs.EmphasisExtra
 {
     [TestFixture]
     public class TestExtensionsStrikethrough

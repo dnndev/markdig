@@ -4,7 +4,7 @@
 
 using System;
 
-namespace Markdig.Syntax
+namespace KnowBetter.Markdig.Syntax
 {
     /// <summary>
     /// A span of text.

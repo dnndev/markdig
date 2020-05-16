@@ -2,10 +2,10 @@
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 
-using Markdig.Parsers.Inlines;
-using Markdig.Renderers;
+using KnowBetter.Markdig.Parsers.Inlines;
+using KnowBetter.Markdig.Renderers;
 
-namespace Markdig.Extensions.CustomContainers
+namespace KnowBetter.Markdig.Extensions.CustomContainers
 {
     /// <summary>
     /// Extension to allow custom containers.

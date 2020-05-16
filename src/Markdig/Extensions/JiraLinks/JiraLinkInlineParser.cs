@@ -3,12 +3,12 @@
 // See the license.txt file in the project root for more information.
 using System;
 using System.Text;
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Extensions.JiraLinks
+namespace KnowBetter.Markdig.Extensions.JiraLinks
 {
     /// <summary>
     /// Finds and replaces JIRA links inline

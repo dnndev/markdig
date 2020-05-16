@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.TaskLists
+namespace KnowBetter.Markdig.Tests.Specs.TaskLists
 {
     [TestFixture]
     public class TestExtensionsTaskLists

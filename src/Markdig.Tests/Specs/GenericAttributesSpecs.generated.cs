@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.GenericAttributes
+namespace KnowBetter.Markdig.Tests.Specs.GenericAttributes
 {
     [TestFixture]
     public class TestExtensionsGenericAttributes

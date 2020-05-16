@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.FiguresFootersAndCites
+namespace KnowBetter.Markdig.Tests.Specs.FiguresFootersAndCites
 {
     [TestFixture]
     public class TestExtensionsFigures

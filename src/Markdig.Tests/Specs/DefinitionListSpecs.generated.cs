@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.DefinitionLists
+namespace KnowBetter.Markdig.Tests.Specs.DefinitionLists
 {
     [TestFixture]
     public class TestExtensionsDefinitionLists

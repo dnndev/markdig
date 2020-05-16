@@ -1,6 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <PackageId>Markdig</PackageId>
+    <AssemblyName>KnowBetter.Markdig</AssemblyName>
+    <RootNamespace>KnowBetter</RootNamespace>
   </PropertyGroup>
   <Import Project="Markdig.targets" />
 </Project>

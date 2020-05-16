@@ -1,7 +1,7 @@
-using Markdig.Parsers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Extensions.DefinitionLists
+namespace KnowBetter.Markdig.Extensions.DefinitionLists
 {
     /// <summary>
     /// A definition item contains zero to multiple <see cref="DefinitionTerm"/> 

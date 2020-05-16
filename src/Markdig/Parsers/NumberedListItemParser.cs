@@ -1,9 +1,9 @@
 // Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
-using Markdig.Helpers;
+using KnowBetter.Markdig.Helpers;
 
-namespace Markdig.Parsers
+namespace KnowBetter.Markdig.Parsers
 {
     /// <summary>
     /// The default parser for parsing numbered list item (e.g: 1) or 1.)

@@ -1,4 +1,4 @@
-namespace Markdig.Extensions.AutoLinks
+namespace KnowBetter.Markdig.Extensions.AutoLinks
 {
     public class AutoLinkOptions
     {

@@ -3,9 +3,9 @@
 // See the license.txt file in the project root for more information.
 using System;
 using System.Runtime.CompilerServices;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     /// <summary>
     /// Helpers to parse Markdown links.

@@ -4,9 +4,9 @@
 using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
-using Markdig.Helpers;
+using KnowBetter.Markdig.Helpers;
 
-namespace Markdig.Parsers
+namespace KnowBetter.Markdig.Parsers
 {
     /// <summary>
     /// Base class for a list of parsers.

@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Yaml
+namespace KnowBetter.Markdig.Tests.Specs.Yaml
 {
     [TestFixture]
     public class TestExtensionsYAMLFrontmatterDiscard

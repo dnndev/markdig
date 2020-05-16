@@ -4,13 +4,13 @@
 using System;
 using System.IO;
 using System.Reflection;
-using Markdig.Extensions.SelfPipeline;
-using Markdig.Parsers;
-using Markdig.Renderers;
-using Markdig.Renderers.Normalize;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Extensions.SelfPipeline;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Normalize;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig
+namespace KnowBetter.Markdig
 {
     /// <summary>
     /// Provides methods for parsing a Markdown string to a syntax tree and converting it to other formats.

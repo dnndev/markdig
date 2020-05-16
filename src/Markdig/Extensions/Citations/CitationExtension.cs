@@ -2,13 +2,13 @@
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 
-using Markdig.Parsers.Inlines;
-using Markdig.Renderers;
-using Markdig.Renderers.Html.Inlines;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Parsers.Inlines;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Html.Inlines;
+using KnowBetter.Markdig.Syntax.Inlines;
 using System.Diagnostics;
 
-namespace Markdig.Extensions.Citations
+namespace KnowBetter.Markdig.Extensions.Citations
 {
     /// <summary>
     /// Extension for cite ""...""

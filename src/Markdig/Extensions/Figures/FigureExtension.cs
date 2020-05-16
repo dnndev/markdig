@@ -1,11 +1,11 @@
-﻿// Copyright (c) Alexandre Mutel. All rights reserved.
+// Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 
-using Markdig.Extensions.Footers;
-using Markdig.Renderers;
+using KnowBetter.Markdig.Extensions.Footers;
+using KnowBetter.Markdig.Renderers;
 
-namespace Markdig.Extensions.Figures
+namespace KnowBetter.Markdig.Extensions.Figures
 {
     /// <summary>
     /// Extension to allow usage of figures and figure captions.

@@ -6,7 +6,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 
-namespace Markdig.Syntax.Inlines
+namespace KnowBetter.Markdig.Syntax.Inlines
 {
     /// <summary>
     /// A base class for container for <see cref="Inline"/>.

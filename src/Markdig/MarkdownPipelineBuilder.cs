@@ -3,12 +3,12 @@
 // See the license.txt file in the project root for more information.
 using System;
 using System.IO;
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Parsers.Inlines;
-using Markdig.Renderers;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Parsers.Inlines;
+using KnowBetter.Markdig.Renderers;
 
-namespace Markdig
+namespace KnowBetter.Markdig
 {
     /// <summary>
     /// This class allows to modify the pipeline to parse and render a Markdown document.

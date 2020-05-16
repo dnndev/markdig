@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.CustomContainers
+namespace KnowBetter.Markdig.Tests.Specs.CustomContainers
 {
     [TestFixture]
     public class TestExtensionsCustomContainer

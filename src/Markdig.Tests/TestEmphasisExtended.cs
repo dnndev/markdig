@@ -1,13 +1,13 @@
-using Markdig.Parsers.Inlines;
-using Markdig.Renderers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Parsers.Inlines;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax.Inlines;
 using NUnit.Framework;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestEmphasisExtended

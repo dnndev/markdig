@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.HardlineBreaks
+namespace KnowBetter.Markdig.Tests.Specs.HardlineBreaks
 {
     [TestFixture]
     public class TestExtensionsHardlineBreak

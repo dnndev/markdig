@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.CommonMarkV_0_29
+namespace KnowBetter.Markdig.Tests.Specs.CommonMarkV_0_29
 {
     [TestFixture]
     public class TestPreliminariesTabs

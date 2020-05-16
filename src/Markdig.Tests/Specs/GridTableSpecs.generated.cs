@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.GridTables
+namespace KnowBetter.Markdig.Tests.Specs.GridTables
 {
     [TestFixture]
     public class TestExtensionsGridTable

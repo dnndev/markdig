@@ -3,7 +3,7 @@
 // See the license.txt file in the project root for more information.
 using NUnit.Framework;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public partial class TestEmphasisPlus

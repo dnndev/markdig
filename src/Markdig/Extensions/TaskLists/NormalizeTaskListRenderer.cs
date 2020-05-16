@@ -1,6 +1,6 @@
-using Markdig.Renderers.Normalize;
+using KnowBetter.Markdig.Renderers.Normalize;
 
-namespace Markdig.Extensions.TaskLists
+namespace KnowBetter.Markdig.Extensions.TaskLists
 {
     public class NormalizeTaskListRenderer : NormalizeObjectRenderer<TaskList>
     {

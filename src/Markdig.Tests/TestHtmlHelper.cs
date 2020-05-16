@@ -2,9 +2,9 @@
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 using NUnit.Framework;
-using Markdig.Helpers;
+using KnowBetter.Markdig.Helpers;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestHtmlHelper

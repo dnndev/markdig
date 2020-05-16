@@ -3,10 +3,10 @@
 // See the license.txt file in the project root for more information.
 
 using System;
-using Markdig.Parsers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Extensions.DefinitionLists
+namespace KnowBetter.Markdig.Extensions.DefinitionLists
 {
     /// <summary>
     /// The block parser for a <see cref="DefinitionList"/>.

@@ -1,6 +1,6 @@
-using Markdig.Renderers;
+using KnowBetter.Markdig.Renderers;
 
-namespace Markdig.Extensions.TextRenderer
+namespace KnowBetter.Markdig.Extensions.TextRenderer
 {
     /// <summary>
     /// Extension that allows setting line-endings for any IMarkdownRenderer

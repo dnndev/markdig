@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Math
+namespace KnowBetter.Markdig.Tests.Specs.Math
 {
     [TestFixture]
     public class TestExtensionsMathInline

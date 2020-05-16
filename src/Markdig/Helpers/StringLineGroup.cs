@@ -7,7 +7,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     /// <summary>
     /// A group of <see cref="StringLine"/>.

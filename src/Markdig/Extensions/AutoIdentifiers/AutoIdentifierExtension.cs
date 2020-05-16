@@ -5,14 +5,14 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Renderers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Extensions.AutoIdentifiers
+namespace KnowBetter.Markdig.Extensions.AutoIdentifiers
 {
     /// <summary>
     /// The auto-identifier extension

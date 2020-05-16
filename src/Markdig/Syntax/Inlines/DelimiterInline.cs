@@ -3,10 +3,10 @@
 // See the license.txt file in the project root for more information.
 using System;
 using System.Diagnostics;
-using Markdig.Helpers;
-using Markdig.Parsers;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
 
-namespace Markdig.Syntax.Inlines
+namespace KnowBetter.Markdig.Syntax.Inlines
 {
     /// <summary>
     /// Internal delimiter used by some parsers (e.g emphasis, tables).

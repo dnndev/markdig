@@ -6,11 +6,11 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
-using Markdig;
-using Markdig.Extensions.AutoIdentifiers;
-using Markdig.Renderers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax;
+using KnowBetter.Markdig;
+using KnowBetter.Markdig.Extensions.AutoIdentifiers;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax;
 
 namespace mdtoc
 {

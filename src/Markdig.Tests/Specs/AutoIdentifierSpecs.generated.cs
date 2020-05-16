@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.AutoIdentifiers
+namespace KnowBetter.Markdig.Tests.Specs.AutoIdentifiers
 {
     [TestFixture]
     public class TestExtensionsHeadingAutoIdentifiers

@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace Markdig
+namespace KnowBetter.Markdig
 {
     /// <summary>
     /// Provides a context that can be used as part of parsing Markdown documents.

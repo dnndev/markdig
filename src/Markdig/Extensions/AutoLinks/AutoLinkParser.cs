@@ -4,12 +4,12 @@
 
 using System;
 using System.Collections.Generic;
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Renderers.Html;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers.Html;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Extensions.AutoLinks
+namespace KnowBetter.Markdig.Extensions.AutoLinks
 {
     /// <summary>
     /// The inline parser used to for autolinks.

@@ -38,7 +38,7 @@ using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using System.Diagnostics;
 
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     /// <summary>
     /// Helper class for handling characters.

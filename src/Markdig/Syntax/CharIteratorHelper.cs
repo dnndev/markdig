@@ -1,6 +1,6 @@
-using Markdig.Helpers;
+using KnowBetter.Markdig.Helpers;
 
-namespace Markdig.Syntax
+namespace KnowBetter.Markdig.Syntax
 {
     /// <summary>
     /// Helpers for the <see cref="ICharIterator"/> class.

@@ -2,10 +2,10 @@
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 using System.Collections.Generic;
-using Markdig.Helpers;
-using Markdig.Parsers;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
 
-namespace Markdig.Extensions.Tables
+namespace KnowBetter.Markdig.Extensions.Tables
 {
     /// <summary>
     /// Internal state used by the <see cref="GridTableParser"/>

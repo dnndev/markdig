@@ -1,10 +1,10 @@
-using Markdig.Renderers.Normalize;
+using KnowBetter.Markdig.Renderers.Normalize;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Markdig.Extensions.JiraLinks
+namespace KnowBetter.Markdig.Extensions.JiraLinks
 {
     public class NormalizeJiraLinksRenderer : NormalizeObjectRenderer<JiraLink>
     {

@@ -3,7 +3,7 @@
 // See the license.txt file in the project root for more information.
 using System.Text;
 
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     /// <summary>
     /// Extensions for StringBuilder

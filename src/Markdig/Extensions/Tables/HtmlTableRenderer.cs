@@ -4,10 +4,10 @@
 
 using System;
 using System.Globalization;
-using Markdig.Renderers;
-using Markdig.Renderers.Html;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Html;
 
-namespace Markdig.Extensions.Tables
+namespace KnowBetter.Markdig.Extensions.Tables
 {
     /// <summary>
     /// A HTML renderer for a <see cref="Table"/>

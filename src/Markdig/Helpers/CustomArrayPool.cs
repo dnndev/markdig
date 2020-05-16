@@ -1,6 +1,6 @@
 using System.Threading;
 
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     internal sealed class CustomArrayPool<T>
     {

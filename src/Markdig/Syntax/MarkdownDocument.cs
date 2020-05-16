@@ -3,7 +3,7 @@
 // See the license.txt file in the project root for more information.
 using System.Collections.Generic;
 
-namespace Markdig.Syntax
+namespace KnowBetter.Markdig.Syntax
 {
     /// <summary>
     /// The root Markdown document.

@@ -18,7 +18,7 @@ using System.Runtime.CompilerServices;
 // Relies on NETCORE being set for selective use of Spans
 
 //namespace SharpCollections.Generic
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     /// <summary>
     /// A compact insert-only key/value collection for fast prefix lookups

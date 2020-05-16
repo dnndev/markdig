@@ -1,10 +1,10 @@
-﻿// Copyright (c) Alexandre Mutel. All rights reserved.
+// Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
-using Markdig.Parsers.Inlines;
-using Markdig.Renderers;
+using KnowBetter.Markdig.Parsers.Inlines;
+using KnowBetter.Markdig.Renderers;
 
-namespace Markdig.Extensions.Tables
+namespace KnowBetter.Markdig.Extensions.Tables
 {
     /// <summary>
     /// Extension that allows to use pipe tables.

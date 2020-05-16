@@ -6,7 +6,7 @@ using System.Globalization;
 using System.IO;
 using NUnit.Framework;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     /// <summary>
     /// Pretty text assert from https://gist.github.com/Haacked/1610603

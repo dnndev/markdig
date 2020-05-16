@@ -1,12 +1,12 @@
 // Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
-using Markdig.Parsers.Inlines;
-using Markdig.Renderers;
-using Markdig.Renderers.Normalize.Inlines;
-using Markdig.Renderers.Normalize;
+using KnowBetter.Markdig.Parsers.Inlines;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Normalize.Inlines;
+using KnowBetter.Markdig.Renderers.Normalize;
 
-namespace Markdig.Extensions.JiraLinks
+namespace KnowBetter.Markdig.Extensions.JiraLinks
 {
     /// <summary>
     /// Simple inline parser extension for Markdig to find, and 

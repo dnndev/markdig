@@ -2,10 +2,10 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
-using Markdig.Extensions.AutoLinks;
+using KnowBetter.Markdig.Extensions.AutoLinks;
 using NUnit.Framework;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     public class MiscTests
     {

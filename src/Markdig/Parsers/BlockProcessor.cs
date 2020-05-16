@@ -4,10 +4,10 @@
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-using Markdig.Helpers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Parsers
+namespace KnowBetter.Markdig.Parsers
 {
     /// <summary>
     /// The block processor.

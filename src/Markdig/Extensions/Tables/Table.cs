@@ -3,10 +3,10 @@
 // See the license.txt file in the project root for more information.
 
 using System.Collections.Generic;
-using Markdig.Parsers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Extensions.Tables
+namespace KnowBetter.Markdig.Extensions.Tables
 {
     /// <summary>
     /// Defines a table that contains an optional <see cref="TableRow"/>.

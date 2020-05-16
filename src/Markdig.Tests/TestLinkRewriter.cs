@@ -1,10 +1,10 @@
 using System;
 using System.IO;
-using Markdig.Parsers;
-using Markdig.Renderers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers;
 using NUnit.Framework;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     public class TestLinkRewriter
     {

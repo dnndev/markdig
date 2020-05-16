@@ -1,11 +1,11 @@
-﻿// Copyright (c) Alexandre Mutel. All rights reserved.
+// Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 
-using Markdig.Helpers;
-using Markdig.Parsers;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
 
-namespace Markdig.Extensions.ListExtras
+namespace KnowBetter.Markdig.Extensions.ListExtras
 {
     using System;
 

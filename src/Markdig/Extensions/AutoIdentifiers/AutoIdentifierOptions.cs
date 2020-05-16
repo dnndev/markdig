@@ -3,7 +3,7 @@
 // See the license.txt file in the project root for more information.
 using System;
 
-namespace Markdig.Extensions.AutoIdentifiers
+namespace KnowBetter.Markdig.Extensions.AutoIdentifiers
 {
     /// <summary>
     /// Options for the <see cref="AutoIdentifierExtension"/>.

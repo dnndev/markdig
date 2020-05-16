@@ -1,9 +1,9 @@
-using Markdig.Renderers;
-using Markdig.Renderers.Normalize;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Renderers;
+using KnowBetter.Markdig.Renderers.Normalize;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Extensions.AutoLinks
+namespace KnowBetter.Markdig.Extensions.AutoLinks
 {
     public class NormalizeAutoLinkRenderer : NormalizeObjectRenderer<LinkInline>
     {

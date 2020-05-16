@@ -4,7 +4,7 @@
 
 using System.Diagnostics;
 
-namespace Markdig.Syntax.Inlines
+namespace KnowBetter.Markdig.Syntax.Inlines
 {
     /// <summary>
     /// An autolink (Section 6.7 CommonMark specs)

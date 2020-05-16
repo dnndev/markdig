@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.SmartyPants
+namespace KnowBetter.Markdig.Tests.Specs.SmartyPants
 {
     [TestFixture]
     public class TestExtensionsSmartyPantsQuotes

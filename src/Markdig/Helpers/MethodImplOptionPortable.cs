@@ -3,7 +3,7 @@
 // See the license.txt file in the project root for more information.
 using System.Runtime.CompilerServices;
 
-namespace Markdig.Helpers
+namespace KnowBetter.Markdig.Helpers
 {
     /// <summary>
     /// Internal helper to allow to declare a method using AggressiveInlining without being .NET 4.0+

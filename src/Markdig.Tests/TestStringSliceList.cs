@@ -1,10 +1,10 @@
 using NUnit.Framework;
 using System.Collections.Generic;
 using System.Text;
-using Markdig.Helpers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestStringSliceList

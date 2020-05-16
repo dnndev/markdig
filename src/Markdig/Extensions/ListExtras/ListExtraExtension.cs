@@ -2,10 +2,10 @@
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 
-using Markdig.Parsers;
-using Markdig.Renderers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Renderers;
 
-namespace Markdig.Extensions.ListExtras
+namespace KnowBetter.Markdig.Extensions.ListExtras
 {
     /// <summary>
     /// Extension for adding new type of list items (a., A., i., I.)

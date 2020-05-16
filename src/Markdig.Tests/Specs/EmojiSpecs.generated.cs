@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Emoji
+namespace KnowBetter.Markdig.Tests.Specs.Emoji
 {
     [TestFixture]
     public class TestExtensionsEmoji

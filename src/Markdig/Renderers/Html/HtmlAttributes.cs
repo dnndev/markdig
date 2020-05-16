@@ -4,9 +4,9 @@
 using System;
 using System.Collections.Generic;
 using System.Globalization;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Renderers.Html
+namespace KnowBetter.Markdig.Renderers.Html
 {
     /// <summary>
     /// Attached HTML attributes to a <see cref="MarkdownObject"/>.

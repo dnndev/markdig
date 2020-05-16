@@ -4,10 +4,10 @@
 
 using System.Security;
 using NUnit.Framework;
-using Markdig.Helpers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Tests
+namespace KnowBetter.Markdig.Tests
 {
     [TestFixture]
     public class TestLinkHelper

@@ -1,13 +1,13 @@
-﻿// Copyright (c) Alexandre Mutel. All rights reserved.
+// Copyright (c) Alexandre Mutel. All rights reserved.
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 
 using System.Diagnostics;
-using Markdig.Helpers;
-using Markdig.Parsers;
-using Markdig.Syntax;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Parsers;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Extensions.Abbreviations
+namespace KnowBetter.Markdig.Extensions.Abbreviations
 {
     /// <summary>
     /// An abbreviation object stored at the document level. See extension methods in <see cref="AbbreviationHelper"/>.

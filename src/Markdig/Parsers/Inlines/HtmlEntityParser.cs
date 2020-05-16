@@ -3,11 +3,11 @@
 // See the license.txt file in the project root for more information.
 
 using System.Text;
-using Markdig.Helpers;
-using Markdig.Syntax;
-using Markdig.Syntax.Inlines;
+using KnowBetter.Markdig.Helpers;
+using KnowBetter.Markdig.Syntax;
+using KnowBetter.Markdig.Syntax.Inlines;
 
-namespace Markdig.Parsers.Inlines
+namespace KnowBetter.Markdig.Parsers.Inlines
 {
     /// <summary>
     /// An inline parser for HTML entities.

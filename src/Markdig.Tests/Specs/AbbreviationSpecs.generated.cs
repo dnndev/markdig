@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.Abbreviations
+namespace KnowBetter.Markdig.Tests.Specs.Abbreviations
 {
     [TestFixture]
     public class TestExtensionsAbbreviation

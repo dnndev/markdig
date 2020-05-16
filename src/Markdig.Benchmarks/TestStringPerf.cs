@@ -1,6 +1,6 @@
-﻿using System.IO;
+using System.IO;
 using BenchmarkDotNet.Attributes;
-using Markdig.Renderers;
+using KnowBetter.Markdig.Renderers;
 
 namespace Testamina.Markdig.Benchmarks
 {

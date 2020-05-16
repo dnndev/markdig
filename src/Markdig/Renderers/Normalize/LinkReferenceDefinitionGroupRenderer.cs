@@ -2,9 +2,9 @@
 // This file is licensed under the BSD-Clause 2 license. 
 // See the license.txt file in the project root for more information.
 
-using Markdig.Syntax;
+using KnowBetter.Markdig.Syntax;
 
-namespace Markdig.Renderers.Normalize
+namespace KnowBetter.Markdig.Renderers.Normalize
 {
     public class LinkReferenceDefinitionGroupRenderer : NormalizeObjectRenderer<LinkReferenceDefinitionGroup>
     {

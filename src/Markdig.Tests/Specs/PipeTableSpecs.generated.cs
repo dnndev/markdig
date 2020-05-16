@@ -7,7 +7,7 @@
 using System;
 using NUnit.Framework;
 
-namespace Markdig.Tests.Specs.PipeTables
+namespace KnowBetter.Markdig.Tests.Specs.PipeTables
 {
     [TestFixture]
     public class TestExtensionsPipeTable
